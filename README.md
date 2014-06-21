@@ -8,7 +8,9 @@ In order to submit a pull request, you must make a modification to your source c
 
 Instead of performing the "clone" operation and modifying the source on your machine, modifications can be made to your fork from the Github web interface.
 
-Once you've made a modification, open a pull request **with your email as the pull request title**.
+Once you've made a modification, open a pull request **with your email as the pull request title** as demonstrated here:
+
+![Email in pull request title](http://vfa-tech-challenge.s3.amazonaws.com/pull-request-title.png)
 
 Check your email once you accomplish this.
 
