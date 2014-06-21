@@ -1,7 +1,4 @@
-pr-depot
-========
-
-Send a PR for great good.
+# Pull Request Challenge
 
 In order to get instructions for the next part of the challenge, you need to submit a pull request to this repository from a fork WITH YOUR EMAIL ADDRESS AS THE TITLE.
 
