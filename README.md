@@ -18,6 +18,6 @@ Put the encrypted email address in the title field of your pull request:
 
 If you don't get it right the first time, make a change to the file you created and this will reprocess your pull-request.
 
-Check your email once you accomplish this.
+Check your email once you accomplish this (you might have to wait a minute for it to arrive).
 
 Good luck!
