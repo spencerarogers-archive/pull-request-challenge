@@ -9,7 +9,7 @@ First, perform step 1 of [these instructions](https://help.github.com/articles/f
 In order to submit a pull request, you must make a modification to your source code. The best way to do that for this exercise is to create a new file with any contents you'd like.
 
 Once you've created a new file in your fork, you need to obtain an encrypted version of your email address here:
-[Encryption Form](http://flatiron-school-tech-challenge.herokuapp.com/encryption)
+[Encryption Form](http://ctf.flatironschool.com/encryption)
 
 We are encrypting the email addresses because these pull requests are public, and we don't want to create a public index of all the Fellow's emails!
 
