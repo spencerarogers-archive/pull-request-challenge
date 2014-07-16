@@ -11,7 +11,7 @@ In order to submit a pull request, you must make a modification to your source c
 Once you've created a new file in your fork, you need to obtain an encrypted version of your email address here:
 [Encryption Form](http://ctf.flatironschool.com/encryption)
 
-We are encrypting the email addresses because these pull requests are public, and we don't want to create a public index of all the Fellow's emails!
+We are encrypting the email addresses because these pull requests are public, and we don't want to create a public index of all your emails!
 
 Put the encrypted email address in the title field of your pull request:
 ![Encrypted email in pull request title](http://vfa-tech-challenge.s3.amazonaws.com/pull-request-title.png)
